@@ -1,7 +1,7 @@
 # GOSUSLUGI
 Это репозиторий команды **TeamRussia** для выполнения первой практической работы по предмету ТиВПО
 
-Выбранное програмное обеспечение: [**Госуслуги**](https://www.gosuslugi.ru/)
+Выбранное програмное обеспечение: [**Госуслуги**](https://www.gosuslugi.ru/help/mobile)
 
 Состав команды: [Артём Долгополов](https://github.com/artemdol25), [Трапизонян Рафик](https://github.com/trapizonyan).
 
@@ -33,7 +33,7 @@
 
 ## Диаграмма вариантов использования
 
-
+<p align="center"><img src="images/menu.jpg" width="400"</p>
 
 
 
