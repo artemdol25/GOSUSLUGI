@@ -1,9 +1,9 @@
 # GOSUSLUGI
 Это репозиторий команды **TeamRussia** для выполнения первой практической работы по предмету ТиВПО
 
-Выбранное програмное обеспечение: [**Госуслуги**](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D1%83%D1%81%D0%BB%D1%83%D0%B3_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8)
+Выбранное програмное обеспечение: [**Госуслуги**](https://www.gosuslugi.ru/)
 
-Состав команды: [Артём Долгополов](https://github.com/artemdol25), [Трапизонян Раифк](https://github.com/trapizonyan).
+Состав команды: [Артём Долгополов](https://github.com/artemdol25), [Трапизонян Рафик](https://github.com/trapizonyan).
 
 ## Оглавление
 
