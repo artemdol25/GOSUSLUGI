@@ -34,7 +34,7 @@
 
 ## Диаграмма вариантов использования
 
-
+<p align="center"><img src="images/diagram.png" width="400"></p>
 
 ## Баги
 
